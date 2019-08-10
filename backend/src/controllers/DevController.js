@@ -15,7 +15,7 @@ module.exports = {
             ],
         })
 
-        return req.json(users);
+        return res.json(users);
     },
 
     async store(req, res) {
