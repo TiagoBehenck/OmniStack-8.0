@@ -41,3 +41,10 @@
 .login-container form button:hover {
    opacity: 0.8;
 } 
+
+.main-container .empty {
+    font-size: 32px;
+    color: #999;
+    font-weight: bold;
+    margin-top: 300px;   
+}
